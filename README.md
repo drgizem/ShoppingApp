@@ -7,7 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - JavaScript
 - Rest API
 
-![./E-commerce App.gif]()
+![E-commerce App](https://user-images.githubusercontent.com/105745506/204014041-55997eec-fef7-420f-aba8-b147f999d447.gif)
+
 
 ## Features
 
