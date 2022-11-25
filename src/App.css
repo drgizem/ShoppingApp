@@ -1,0 +1,21 @@
+.container {
+  width: 50%;
+  margin: 100px auto;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+.card {
+  border: 1px solid gray;
+}
+img {
+  height: 300px;
+}
+
+.inputArea {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  color: black;
+}
