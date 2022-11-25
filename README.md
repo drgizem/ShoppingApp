@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Technologies used
-- React Js (Context API,Hooks,Material UI)
+- React Js (Context API,Hooks,React Router,Material UI)
 - JavaScript
 - Rest API
 
